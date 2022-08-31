@@ -9,6 +9,7 @@ dna screen loader CSS only
 
 ## Live link
 
+https://peter-kimanzi.github.io/dna-loader/
 
 ## screenshots
 
