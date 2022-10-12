@@ -1,6 +1,6 @@
 # dna-loader
 
-dna screen loader CSS only
+dna screen loader CSS only.
 
 ## Technologies Used
 
